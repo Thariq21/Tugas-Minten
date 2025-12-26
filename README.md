@@ -1,4 +1,4 @@
-<img width="3072" height="1920" alt="image" src="https://github.com/user-attachments/assets/2ef2c5f5-26e6-4cc8-940e-103157d6711c" /># 📰 CMS Portal Berita
+# 📰 CMS Portal Berita
 
 ![Laravel](https://img.shields.io/badge/Laravel-10.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8.1+-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -247,8 +247,7 @@ DELETE /admin/posts/{id}       # Hapus artikel
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](<img width="3072" height="1920" alt="Screenshot from 2025-12-26 10-32-26" src="https://github.com/user-attachments/assets/eb92bb2c-824d-4353-b183-eab59d37cfac" />
-)
+<img width="3072" height="1920" alt="Screenshot from 2025-12-26 10-32-26" src="https://github.com/user-attachments/assets/eb92bb2c-824d-4353-b183-eab59d37cfac" />
 
 ### Admin Dashboard
 ![Dashboard](docs/screenshots/dashboard.png)
