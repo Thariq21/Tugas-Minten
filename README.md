@@ -250,13 +250,14 @@ DELETE /admin/posts/{id}       # Hapus artikel
 <img width="3072" height="1920" alt="Screenshot from 2025-12-26 10-32-26" src="https://github.com/user-attachments/assets/eb92bb2c-824d-4353-b183-eab59d37cfac" />
 
 ### Admin Dashboard
-![Dashboard](docs/screenshots/dashboard.png)
+<img width="3072" height="1920" alt="image" src="https://github.com/user-attachments/assets/affb1710-b23f-4c9c-98d9-8a905d74a2a8" />
 
 ### Artikel Management
-![Articles](docs/screenshots/articles.png)
+<img width="3072" height="1920" alt="Screenshot from 2025-12-26 10-37-05" src="https://github.com/user-attachments/assets/20b90d90-deec-4ee2-9358-a4fad877ac3e" />
 
 ### Form Editor
-![Editor](docs/screenshots/editor.png)
+![Uploading Screenshot from 2025-12-26 10-39-21.png…]()
+
 
 ## 🔧 Troubleshooting
 
